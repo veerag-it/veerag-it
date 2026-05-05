@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi, I'm Veera 👋
 
-<!--
-**veerag-it/veerag-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Exploring web development and programming fundamentals  
+🧠 Strengthening JavaScript fundamentals  
+🚀 Starting backend development (Node.js)  
+⚙️ Practicing problem solving and improving coding skills  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech I've worked with
+- Languages: C, C++, Java, Python, PHP  
+- Web: HTML, CSS, JavaScript  
+- Database: MySQL, SQL  
+- Tools: Git, Linux, VS Code  
+
+---
+
+### 📌 Projects
+- 🚆 Railway Ticket Booking System  
+- 🏥 Hospital Management System  
+- 🌐 Photography Learning Website  
+- 🧩 LeetCode problem solving  
+
+---
+
+### 🎯 Goals
+- Build real-world web projects  
+- Get strong in JavaScript and backend development  
+- Move into full-stack development (MERN)
