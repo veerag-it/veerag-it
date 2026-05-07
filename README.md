@@ -2,7 +2,6 @@
 
 💻 Exploring web development and programming fundamentals  
 🧠 Strengthening JavaScript fundamentals  
-🚀 Starting backend development (Node.js)  
 ⚙️ Practicing problem solving and improving coding skills  
 
 ---
