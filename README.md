@@ -17,7 +17,8 @@
 ### 📌 Projects
 - 🚆 Railway Ticket Booking System  
 - 🏥 Hospital Management System  
-- 🌐 Photography Learning Website  
+- 🌐 Photography Learning Website
+- 🎮 Treasure Hunt Pygame
 - 🧩 LeetCode problem solving  
 
 ---
