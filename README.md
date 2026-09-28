@@ -19,7 +19,7 @@
 - 🏥 Hospital Management System  
 - 🌐 Photography Learning Website
 - 🎮 Treasure Hunt Pygame
-- 🌐 Hospital Management System Website
+- 🌐 Hospital Management System Website (DSA)
 - 🧩 LeetCode problem solving  
 
 ---
