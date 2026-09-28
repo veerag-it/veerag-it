@@ -15,8 +15,8 @@
 ---
 
 ### 📌 Projects
-- 🚆 Railway Ticket Booking System  
-- 🏥 Hospital Management System  
+- 🚆 Railway Ticket Booking System (LINUX)
+- 🏥 Hospital Management System (DBMS)
 - 🌐 Photography Learning Website
 - 🎮 Treasure Hunt Pygame
 - 🌐 Hospital Management System Website (DSA)
